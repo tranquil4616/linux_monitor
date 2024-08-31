@@ -18,6 +18,9 @@
 	- ui界面使用QWidget、QTableView、QStackedLayout、QPushButton等进行构建
 	- datamodel：通过继承QAbstractTableModel，构建出相应的cpu_model、softirq_model、mem_model等，每3秒刷新一次数据。
 
+![image](https://github.com/user-attachments/assets/b0e32b6d-3d12-4c19-9228-26b28fcb50be)
+
+
 ## 项目构建
 
 1. 前置要求：
